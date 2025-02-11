@@ -12,7 +12,6 @@ This lab will demonstrate how to secure an individual endpoint within the networ
 <br/>
 <img src="https://i.imgur.com/10mDrWc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
 <p align="center">
 <br/>
 <img src="https://i.imgur.com/meLv97A.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
