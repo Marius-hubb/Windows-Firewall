@@ -1,9 +1,9 @@
-<h1>Implementing Host-based Firewall Functionality Using Windows Firewall</h1>
+<h1>Implementing Network-Based Firewall Functionality - Blocking Unwanted Website Access using pfSense Firewall</h1>
 
  ## [Video Demonstration](https://drive.google.com/file/d/1XlMl4mExWn7jEhzouoBcwUuF4VzHvLMt/view?usp=sharing)
 
 <h2>Description</h2>
-This lab will demonstrate how to secure an individual endpoint within the network by Applying rules in a host-based firewall.
+The lab will demonstrate how to use the pfSense firewall alias to block access to unwanted websites. If we implement one rule per host, the number of rules will be greater and more difficult to manage. Using an alias for multiple hosts requires the use of only one rule.
 <br />
 
 <h2>Lab walk-through:</h2>
