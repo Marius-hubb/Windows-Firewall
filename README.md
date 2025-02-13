@@ -1,7 +1,7 @@
 <h1>Implement Host-based Firewall Functionality Using Windows Firewall
 </h1>
 
- ## [Video Demonstration](https://drive.google.com/file/d/1XlMl4mExWn7jEhzouoBcwUuF4VzHvLMt/view?usp=sharing)
+ ## [Video Demonstration (7:50)](https://drive.google.com/file/d/1XlMl4mExWn7jEhzouoBcwUuF4VzHvLMt/view?usp=sharing)
 
 <h2>Description</h2>
 This lab will demonstrate how to secure an individual endpoint within the network by applying rules in a host-based firewall
