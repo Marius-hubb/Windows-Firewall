@@ -9,18 +9,19 @@ This lab demonstrates how to implement host-based firewall functionality using W
 
 <p align="center">
 <br/>
-<p align="center"><https://i.imgur.com/10mDrWc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<p align="center"><img src="https://i.imgur.com/10mDrWc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <p align="center">
 <br/>
 <img src="https://i.imgur.com/sGs3Xdp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center"><https://i.imgur.com/I5ilkK0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/meLv97A.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I5ilkK0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center"><img src="https://i.imgur.com/meLv97A.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="center"><img src="https://i.imgur.com/cRi12XD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
